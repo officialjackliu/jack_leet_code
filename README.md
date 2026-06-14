@@ -15,4 +15,16 @@ jack's leetcode log
 |  |
 | ------- |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/officialjackliu/jack_leet_code/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+## Array
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/officialjackliu/jack_leet_code/tree/master/0088-merge-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/officialjackliu/jack_leet_code/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/officialjackliu/jack_leet_code/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
