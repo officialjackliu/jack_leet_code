@@ -72,10 +72,12 @@ jack's leetcode log
 | ------- |
 | [0058-length-of-last-word](https://github.com/officialjackliu/jack_leet_code/tree/master/0058-length-of-last-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/officialjackliu/jack_leet_code/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/officialjackliu/jack_leet_code/tree/master/3614-process-string-with-special-operations-ii) |
 ## Simulation
 |  |
 | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/officialjackliu/jack_leet_code/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/officialjackliu/jack_leet_code/tree/master/3614-process-string-with-special-operations-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
