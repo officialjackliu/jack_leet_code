@@ -70,6 +70,7 @@ jack's leetcode log
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/officialjackliu/jack_leet_code/tree/master/0058-length-of-last-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/officialjackliu/jack_leet_code/tree/master/3612-process-string-with-special-operations-i) |
 ## Simulation
 |  |
