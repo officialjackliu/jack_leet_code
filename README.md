@@ -45,6 +45,7 @@ jack's leetcode log
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/officialjackliu/jack_leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/officialjackliu/jack_leet_code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/officialjackliu/jack_leet_code/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/officialjackliu/jack_leet_code/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/officialjackliu/jack_leet_code/tree/master/0189-rotate-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/officialjackliu/jack_leet_code/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/officialjackliu/jack_leet_code/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -86,6 +87,7 @@ jack's leetcode log
 | [0013-roman-to-integer](https://github.com/officialjackliu/jack_leet_code/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/officialjackliu/jack_leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/officialjackliu/jack_leet_code/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/officialjackliu/jack_leet_code/tree/master/0125-valid-palindrome) |
 | [3612-process-string-with-special-operations-i](https://github.com/officialjackliu/jack_leet_code/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/officialjackliu/jack_leet_code/tree/master/3614-process-string-with-special-operations-ii) |
 ## Simulation
