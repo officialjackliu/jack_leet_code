@@ -1,24 +1,27 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        // clean string lower char only 
-        string palindrome; 
-        for (char ch: s) {
-            if (isalpha(ch) != 0) {
-                palindrome += tolower(ch);
-            }
-            else if (isdigit(ch) != 0) {
-                palindrome += ch;
-            }
-        }
-        // check palindrome, point back and forward: run 2 * O(n), O(n) space
+        // O(1) space, 1 time O(n) run 
         int left = 0; 
-        int right = palindrome.size() -1;
-        while (left <= right) {
-            if (palindrome[left] != palindrome[right]) {
+        int right = s.size() -1;
+        while (left < right) {
+            // left not alphanumerical, skip
+            cout << "s[left]:   " << s[left] << "   s[right]:  " << s[right]<<  endl;
+            if (isalnum(s[left]) == 0) {
+                left++;
+                continue;
+            }
+            // right not alphanumerical, skip
+            if (isalnum(s[right]) == 0) {
+                right--;
+                continue;
+            }
+            // pointer check, alpha and number
+            if (tolower(s[left]) != tolower(s[right])) {
                 return false;
             }
-            left++; 
+            // pass increment
+            left++;
             right--;
         }
         return true;
