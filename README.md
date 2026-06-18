@@ -81,6 +81,7 @@ jack's leetcode log
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/officialjackliu/jack_leet_code/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/officialjackliu/jack_leet_code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/officialjackliu/jack_leet_code/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/officialjackliu/jack_leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
