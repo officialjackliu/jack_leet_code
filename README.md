@@ -6,6 +6,7 @@ jack's leetcode log
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/officialjackliu/jack_leet_code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/officialjackliu/jack_leet_code/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/officialjackliu/jack_leet_code/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/officialjackliu/jack_leet_code/tree/master/0380-insert-delete-getrandom-o1) |
@@ -64,6 +65,7 @@ jack's leetcode log
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/officialjackliu/jack_leet_code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/officialjackliu/jack_leet_code/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/officialjackliu/jack_leet_code/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/officialjackliu/jack_leet_code/tree/master/0380-insert-delete-getrandom-o1) |
@@ -78,6 +80,7 @@ jack's leetcode log
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/officialjackliu/jack_leet_code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/officialjackliu/jack_leet_code/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/officialjackliu/jack_leet_code/tree/master/0058-length-of-last-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/officialjackliu/jack_leet_code/tree/master/3612-process-string-with-special-operations-i) |
