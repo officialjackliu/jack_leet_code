@@ -1,23 +1,16 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        // two pointer approach, vector of pairs, first is nums value, second is original index 
-        vector<pair<int, int>> num_map; 
+        // hash map approach, nums[i], target-nums[i]
+        unordered_map<int, int> numMap; 
+        // int n = nums.size(); 
         for (int i = 0; i < nums.size(); i++) {
-            num_map.push_back({nums[i], i});
-        }
-        sort(num_map.begin(), num_map.end());
-        int left = 0, right = nums.size()-1;
-        while (left < right) {
-            int sum = num_map[left].first + num_map[right].first; 
-            if (sum == target) {
-                break;
-            } else if (sum > target) {
-                right--;
-            } else {
-                left++;
+            int complement = target - nums[i]; 
+            if (numMap.count(complement) != 0) {
+                return {numMap[complement], i};
             }
+            numMap[nums[i]] = i;
         }
-        return {num_map[left].second, num_map[right].second}; 
+        return {};
     }
 };
