@@ -37,6 +37,7 @@ jack's leetcode log
 | [0238-product-of-array-except-self](https://github.com/officialjackliu/jack_leet_code/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/officialjackliu/jack_leet_code/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/officialjackliu/jack_leet_code/tree/master/0380-insert-delete-getrandom-o1) |
+| [1732-find-the-highest-altitude](https://github.com/officialjackliu/jack_leet_code/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
 |  |
 | ------- |
@@ -125,6 +126,7 @@ jack's leetcode log
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/officialjackliu/jack_leet_code/tree/master/0238-product-of-array-except-self) |
+| [1732-find-the-highest-altitude](https://github.com/officialjackliu/jack_leet_code/tree/master/1732-find-the-highest-altitude) |
 ## String Matching
 |  |
 | ------- |
