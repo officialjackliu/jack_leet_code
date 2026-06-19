@@ -23,6 +23,7 @@ jack's leetcode log
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/officialjackliu/jack_leet_code/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/officialjackliu/jack_leet_code/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/officialjackliu/jack_leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/officialjackliu/jack_leet_code/tree/master/0027-remove-element) |
@@ -73,6 +74,7 @@ jack's leetcode log
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/officialjackliu/jack_leet_code/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/officialjackliu/jack_leet_code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/officialjackliu/jack_leet_code/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/officialjackliu/jack_leet_code/tree/master/0169-majority-element) |
