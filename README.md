@@ -41,6 +41,7 @@ jack's leetcode log
 | [0274-h-index](https://github.com/officialjackliu/jack_leet_code/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/officialjackliu/jack_leet_code/tree/master/0380-insert-delete-getrandom-o1) |
 | [1732-find-the-highest-altitude](https://github.com/officialjackliu/jack_leet_code/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/officialjackliu/jack_leet_code/tree/master/1833-maximum-ice-cream-bars) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +64,7 @@ jack's leetcode log
 | [0169-majority-element](https://github.com/officialjackliu/jack_leet_code/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/officialjackliu/jack_leet_code/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/officialjackliu/jack_leet_code/tree/master/0274-h-index) |
+| [1833-maximum-ice-cream-bars](https://github.com/officialjackliu/jack_leet_code/tree/master/1833-maximum-ice-cream-bars) |
 ## Linked List
 |  |
 | ------- |
@@ -124,10 +126,12 @@ jack's leetcode log
 | [0055-jump-game](https://github.com/officialjackliu/jack_leet_code/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/officialjackliu/jack_leet_code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/officialjackliu/jack_leet_code/tree/master/0134-gas-station) |
+| [1833-maximum-ice-cream-bars](https://github.com/officialjackliu/jack_leet_code/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
 | ------- |
 | [0274-h-index](https://github.com/officialjackliu/jack_leet_code/tree/master/0274-h-index) |
+| [1833-maximum-ice-cream-bars](https://github.com/officialjackliu/jack_leet_code/tree/master/1833-maximum-ice-cream-bars) |
 ## Design
 |  |
 | ------- |
