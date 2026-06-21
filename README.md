@@ -9,6 +9,7 @@ jack's leetcode log
 | [0012-integer-to-roman](https://github.com/officialjackliu/jack_leet_code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/officialjackliu/jack_leet_code/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/officialjackliu/jack_leet_code/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/officialjackliu/jack_leet_code/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/officialjackliu/jack_leet_code/tree/master/0380-insert-delete-getrandom-o1) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/officialjackliu/jack_leet_code/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/officialjackliu/jack_leet_code/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -57,6 +58,7 @@ jack's leetcode log
 | [0125-valid-palindrome](https://github.com/officialjackliu/jack_leet_code/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/officialjackliu/jack_leet_code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/officialjackliu/jack_leet_code/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/officialjackliu/jack_leet_code/tree/master/0202-happy-number) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/officialjackliu/jack_leet_code/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/officialjackliu/jack_leet_code/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Sorting
@@ -87,6 +89,7 @@ jack's leetcode log
 | [0049-group-anagrams](https://github.com/officialjackliu/jack_leet_code/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/officialjackliu/jack_leet_code/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/officialjackliu/jack_leet_code/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/officialjackliu/jack_leet_code/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/officialjackliu/jack_leet_code/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/officialjackliu/jack_leet_code/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/officialjackliu/jack_leet_code/tree/master/0242-valid-anagram) |
