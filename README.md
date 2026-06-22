@@ -81,6 +81,7 @@ jack's leetcode log
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/officialjackliu/jack_leet_code/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/officialjackliu/jack_leet_code/tree/master/0071-simplify-path) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/officialjackliu/jack_leet_code/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Hash Table
 |  |
@@ -115,6 +116,7 @@ jack's leetcode log
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/officialjackliu/jack_leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/officialjackliu/jack_leet_code/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/officialjackliu/jack_leet_code/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/officialjackliu/jack_leet_code/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/officialjackliu/jack_leet_code/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/officialjackliu/jack_leet_code/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/officialjackliu/jack_leet_code/tree/master/0242-valid-anagram) |
