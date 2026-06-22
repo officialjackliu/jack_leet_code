@@ -98,6 +98,7 @@ jack's leetcode log
 | [0242-valid-anagram](https://github.com/officialjackliu/jack_leet_code/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/officialjackliu/jack_leet_code/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/officialjackliu/jack_leet_code/tree/master/0380-insert-delete-getrandom-o1) |
+| [1189-maximum-number-of-balloons](https://github.com/officialjackliu/jack_leet_code/tree/master/1189-maximum-number-of-balloons) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -106,6 +107,7 @@ jack's leetcode log
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/officialjackliu/jack_leet_code/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/officialjackliu/jack_leet_code/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
 | ------- |
@@ -121,6 +123,7 @@ jack's leetcode log
 | [0205-isomorphic-strings](https://github.com/officialjackliu/jack_leet_code/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/officialjackliu/jack_leet_code/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/officialjackliu/jack_leet_code/tree/master/0290-word-pattern) |
+| [1189-maximum-number-of-balloons](https://github.com/officialjackliu/jack_leet_code/tree/master/1189-maximum-number-of-balloons) |
 | [3612-process-string-with-special-operations-i](https://github.com/officialjackliu/jack_leet_code/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/officialjackliu/jack_leet_code/tree/master/3614-process-string-with-special-operations-ii) |
 ## Simulation
