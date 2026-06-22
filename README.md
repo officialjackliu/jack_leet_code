@@ -80,6 +80,7 @@ jack's leetcode log
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/officialjackliu/jack_leet_code/tree/master/0020-valid-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/officialjackliu/jack_leet_code/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Hash Table
 |  |
@@ -110,6 +111,7 @@ jack's leetcode log
 | [0006-zigzag-conversion](https://github.com/officialjackliu/jack_leet_code/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/officialjackliu/jack_leet_code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/officialjackliu/jack_leet_code/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/officialjackliu/jack_leet_code/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/officialjackliu/jack_leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/officialjackliu/jack_leet_code/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/officialjackliu/jack_leet_code/tree/master/0058-length-of-last-word) |
