@@ -31,6 +31,7 @@ jack's leetcode log
 | [0045-jump-game-ii](https://github.com/officialjackliu/jack_leet_code/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/officialjackliu/jack_leet_code/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/officialjackliu/jack_leet_code/tree/master/0055-jump-game) |
+| [0068-text-justification](https://github.com/officialjackliu/jack_leet_code/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/officialjackliu/jack_leet_code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/officialjackliu/jack_leet_code/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/officialjackliu/jack_leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -118,6 +119,7 @@ jack's leetcode log
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/officialjackliu/jack_leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/officialjackliu/jack_leet_code/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/officialjackliu/jack_leet_code/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/officialjackliu/jack_leet_code/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/officialjackliu/jack_leet_code/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/officialjackliu/jack_leet_code/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/officialjackliu/jack_leet_code/tree/master/0205-isomorphic-strings) |
@@ -130,6 +132,7 @@ jack's leetcode log
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/officialjackliu/jack_leet_code/tree/master/0068-text-justification) |
 | [3612-process-string-with-special-operations-i](https://github.com/officialjackliu/jack_leet_code/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/officialjackliu/jack_leet_code/tree/master/3614-process-string-with-special-operations-ii) |
 ## Dynamic Programming
