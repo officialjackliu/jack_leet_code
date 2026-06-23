@@ -124,6 +124,7 @@ jack's leetcode log
 | [0242-valid-anagram](https://github.com/officialjackliu/jack_leet_code/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/officialjackliu/jack_leet_code/tree/master/0290-word-pattern) |
 | [1189-maximum-number-of-balloons](https://github.com/officialjackliu/jack_leet_code/tree/master/1189-maximum-number-of-balloons) |
+| [1592-rearrange-spaces-between-words](https://github.com/officialjackliu/jack_leet_code/tree/master/1592-rearrange-spaces-between-words) |
 | [3612-process-string-with-special-operations-i](https://github.com/officialjackliu/jack_leet_code/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/officialjackliu/jack_leet_code/tree/master/3614-process-string-with-special-operations-ii) |
 ## Simulation
