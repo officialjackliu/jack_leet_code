@@ -11,6 +11,7 @@ jack's leetcode log
 | [0150-evaluate-reverse-polish-notation](https://github.com/officialjackliu/jack_leet_code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/officialjackliu/jack_leet_code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/officialjackliu/jack_leet_code/tree/master/0202-happy-number) |
+| [0227-basic-calculator-ii](https://github.com/officialjackliu/jack_leet_code/tree/master/0227-basic-calculator-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/officialjackliu/jack_leet_code/tree/master/0380-insert-delete-getrandom-o1) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/officialjackliu/jack_leet_code/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/officialjackliu/jack_leet_code/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -88,6 +89,7 @@ jack's leetcode log
 | [0020-valid-parentheses](https://github.com/officialjackliu/jack_leet_code/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/officialjackliu/jack_leet_code/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/officialjackliu/jack_leet_code/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0227-basic-calculator-ii](https://github.com/officialjackliu/jack_leet_code/tree/master/0227-basic-calculator-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/officialjackliu/jack_leet_code/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Hash Table
 |  |
@@ -128,6 +130,7 @@ jack's leetcode log
 | [0071-simplify-path](https://github.com/officialjackliu/jack_leet_code/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/officialjackliu/jack_leet_code/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/officialjackliu/jack_leet_code/tree/master/0205-isomorphic-strings) |
+| [0227-basic-calculator-ii](https://github.com/officialjackliu/jack_leet_code/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/officialjackliu/jack_leet_code/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/officialjackliu/jack_leet_code/tree/master/0290-word-pattern) |
 | [1189-maximum-number-of-balloons](https://github.com/officialjackliu/jack_leet_code/tree/master/1189-maximum-number-of-balloons) |
