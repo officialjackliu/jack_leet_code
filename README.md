@@ -55,6 +55,7 @@ jack's leetcode log
 | [1732-find-the-highest-altitude](https://github.com/officialjackliu/jack_leet_code/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/officialjackliu/jack_leet_code/tree/master/1833-maximum-ice-cream-bars) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/officialjackliu/jack_leet_code/tree/master/3142-check-if-grid-satisfies-conditions) |
+| [3364-minimum-positive-sum-subarray](https://github.com/officialjackliu/jack_leet_code/tree/master/3364-minimum-positive-sum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -183,6 +184,7 @@ jack's leetcode log
 | [0209-minimum-size-subarray-sum](https://github.com/officialjackliu/jack_leet_code/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/officialjackliu/jack_leet_code/tree/master/0238-product-of-array-except-self) |
 | [1732-find-the-highest-altitude](https://github.com/officialjackliu/jack_leet_code/tree/master/1732-find-the-highest-altitude) |
+| [3364-minimum-positive-sum-subarray](https://github.com/officialjackliu/jack_leet_code/tree/master/3364-minimum-positive-sum-subarray) |
 ## String Matching
 |  |
 | ------- |
@@ -197,6 +199,7 @@ jack's leetcode log
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/officialjackliu/jack_leet_code/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/officialjackliu/jack_leet_code/tree/master/0219-contains-duplicate-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/officialjackliu/jack_leet_code/tree/master/3364-minimum-positive-sum-subarray) |
 ## Union-Find
 |  |
 | ------- |
