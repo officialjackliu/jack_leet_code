@@ -30,6 +30,7 @@ jack's leetcode log
 | [0015-3sum](https://github.com/officialjackliu/jack_leet_code/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/officialjackliu/jack_leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/officialjackliu/jack_leet_code/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/officialjackliu/jack_leet_code/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/officialjackliu/jack_leet_code/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/officialjackliu/jack_leet_code/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/officialjackliu/jack_leet_code/tree/master/0055-jump-game) |
@@ -60,6 +61,7 @@ jack's leetcode log
 | [0026-remove-duplicates-from-sorted-array](https://github.com/officialjackliu/jack_leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/officialjackliu/jack_leet_code/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/officialjackliu/jack_leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/officialjackliu/jack_leet_code/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/officialjackliu/jack_leet_code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/officialjackliu/jack_leet_code/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/officialjackliu/jack_leet_code/tree/master/0125-valid-palindrome) |
@@ -87,6 +89,7 @@ jack's leetcode log
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/officialjackliu/jack_leet_code/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/officialjackliu/jack_leet_code/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/officialjackliu/jack_leet_code/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/officialjackliu/jack_leet_code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/officialjackliu/jack_leet_code/tree/master/0227-basic-calculator-ii) |
@@ -146,6 +149,7 @@ jack's leetcode log
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/officialjackliu/jack_leet_code/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/officialjackliu/jack_leet_code/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/officialjackliu/jack_leet_code/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/officialjackliu/jack_leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -197,4 +201,8 @@ jack's leetcode log
 |  |
 | ------- |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/officialjackliu/jack_leet_code/tree/master/3142-check-if-grid-satisfies-conditions) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/officialjackliu/jack_leet_code/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
