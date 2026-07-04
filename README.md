@@ -59,6 +59,7 @@ jack's leetcode log
 | [1833-maximum-ice-cream-bars](https://github.com/officialjackliu/jack_leet_code/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/officialjackliu/jack_leet_code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/officialjackliu/jack_leet_code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/officialjackliu/jack_leet_code/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/officialjackliu/jack_leet_code/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/officialjackliu/jack_leet_code/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3364-minimum-positive-sum-subarray](https://github.com/officialjackliu/jack_leet_code/tree/master/3364-minimum-positive-sum-subarray) |
@@ -122,6 +123,7 @@ jack's leetcode log
 | [0290-word-pattern](https://github.com/officialjackliu/jack_leet_code/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/officialjackliu/jack_leet_code/tree/master/0380-insert-delete-getrandom-o1) |
 | [1189-maximum-number-of-balloons](https://github.com/officialjackliu/jack_leet_code/tree/master/1189-maximum-number-of-balloons) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/officialjackliu/jack_leet_code/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -222,6 +224,7 @@ jack's leetcode log
 ## Matrix
 |  |
 | ------- |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/officialjackliu/jack_leet_code/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/officialjackliu/jack_leet_code/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Monotonic Stack
 |  |
