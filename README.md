@@ -17,6 +17,7 @@ jack's leetcode log
 | [1344-angle-between-hands-of-a-clock](https://github.com/officialjackliu/jack_leet_code/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/officialjackliu/jack_leet_code/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/officialjackliu/jack_leet_code/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/officialjackliu/jack_leet_code/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Tree
 |  |
 | ------- |
@@ -160,6 +161,7 @@ jack's leetcode log
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/officialjackliu/jack_leet_code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/officialjackliu/jack_leet_code/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/officialjackliu/jack_leet_code/tree/master/3614-process-string-with-special-operations-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/officialjackliu/jack_leet_code/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -205,6 +207,7 @@ jack's leetcode log
 | [0238-product-of-array-except-self](https://github.com/officialjackliu/jack_leet_code/tree/master/0238-product-of-array-except-self) |
 | [1732-find-the-highest-altitude](https://github.com/officialjackliu/jack_leet_code/tree/master/1732-find-the-highest-altitude) |
 | [3364-minimum-positive-sum-subarray](https://github.com/officialjackliu/jack_leet_code/tree/master/3364-minimum-positive-sum-subarray) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/officialjackliu/jack_leet_code/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String Matching
 |  |
 | ------- |
