@@ -14,7 +14,7 @@ public:
                     int row_posi = row; 
                     int col_posi = col; 
                     int board_posi = row /3 * 3 + col / 3; 
-                    cout << "num is " << num << "   row position is " << row_posi << "  column position is " << col_posi << "   board_posi is " << board_posi << endl;
+                    // cout << "num is " << num << "   row position is " << row_posi << "  column position is " << col_posi << "   board_posi is " << board_posi << endl;
                     if (rows[row_posi].count(num) != 0 || columns[col_posi].count(num) != 0 || boards[board_posi].count(num) != 0) {
                         return false;
                     } else {
