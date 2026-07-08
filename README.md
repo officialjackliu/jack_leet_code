@@ -16,6 +16,7 @@ jack's leetcode log
 | [0380-insert-delete-getrandom-o1](https://github.com/officialjackliu/jack_leet_code/tree/master/0380-insert-delete-getrandom-o1) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/officialjackliu/jack_leet_code/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/officialjackliu/jack_leet_code/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/officialjackliu/jack_leet_code/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Tree
 |  |
 | ------- |
