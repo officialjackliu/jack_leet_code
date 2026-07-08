@@ -44,6 +44,7 @@ jack's leetcode log
 | [0056-merge-intervals](https://github.com/officialjackliu/jack_leet_code/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/officialjackliu/jack_leet_code/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/officialjackliu/jack_leet_code/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/officialjackliu/jack_leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/officialjackliu/jack_leet_code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/officialjackliu/jack_leet_code/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/officialjackliu/jack_leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -121,6 +122,7 @@ jack's leetcode log
 | [0013-roman-to-integer](https://github.com/officialjackliu/jack_leet_code/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/officialjackliu/jack_leet_code/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/officialjackliu/jack_leet_code/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/officialjackliu/jack_leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/officialjackliu/jack_leet_code/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/officialjackliu/jack_leet_code/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/officialjackliu/jack_leet_code/tree/master/0202-happy-number) |
@@ -237,6 +239,7 @@ jack's leetcode log
 | [0036-valid-sudoku](https://github.com/officialjackliu/jack_leet_code/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/officialjackliu/jack_leet_code/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/officialjackliu/jack_leet_code/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/officialjackliu/jack_leet_code/tree/master/0073-set-matrix-zeroes) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/officialjackliu/jack_leet_code/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/officialjackliu/jack_leet_code/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Monotonic Stack
