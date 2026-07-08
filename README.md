@@ -36,6 +36,7 @@ jack's leetcode log
 | [0042-trapping-rain-water](https://github.com/officialjackliu/jack_leet_code/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/officialjackliu/jack_leet_code/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/officialjackliu/jack_leet_code/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/officialjackliu/jack_leet_code/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/officialjackliu/jack_leet_code/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/officialjackliu/jack_leet_code/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/officialjackliu/jack_leet_code/tree/master/0057-insert-interval) |
@@ -162,6 +163,7 @@ jack's leetcode log
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/officialjackliu/jack_leet_code/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/officialjackliu/jack_leet_code/tree/master/0068-text-justification) |
 | [3612-process-string-with-special-operations-i](https://github.com/officialjackliu/jack_leet_code/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/officialjackliu/jack_leet_code/tree/master/3614-process-string-with-special-operations-ii) |
@@ -228,6 +230,7 @@ jack's leetcode log
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/officialjackliu/jack_leet_code/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/officialjackliu/jack_leet_code/tree/master/0054-spiral-matrix) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/officialjackliu/jack_leet_code/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/officialjackliu/jack_leet_code/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Monotonic Stack
