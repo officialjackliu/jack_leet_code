@@ -9,6 +9,7 @@ jack's leetcode log
 | [0002-add-two-numbers](https://github.com/officialjackliu/jack_leet_code/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/officialjackliu/jack_leet_code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/officialjackliu/jack_leet_code/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/officialjackliu/jack_leet_code/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/officialjackliu/jack_leet_code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/officialjackliu/jack_leet_code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/officialjackliu/jack_leet_code/tree/master/0202-happy-number) |
@@ -36,6 +37,7 @@ jack's leetcode log
 | [0036-valid-sudoku](https://github.com/officialjackliu/jack_leet_code/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/officialjackliu/jack_leet_code/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/officialjackliu/jack_leet_code/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/officialjackliu/jack_leet_code/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/officialjackliu/jack_leet_code/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/officialjackliu/jack_leet_code/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/officialjackliu/jack_leet_code/tree/master/0055-jump-game) |
@@ -233,6 +235,7 @@ jack's leetcode log
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/officialjackliu/jack_leet_code/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/officialjackliu/jack_leet_code/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/officialjackliu/jack_leet_code/tree/master/0054-spiral-matrix) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/officialjackliu/jack_leet_code/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/officialjackliu/jack_leet_code/tree/master/3142-check-if-grid-satisfies-conditions) |
