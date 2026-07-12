@@ -61,6 +61,7 @@ jack's leetcode log
 | [0228-summary-ranges](https://github.com/officialjackliu/jack_leet_code/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/officialjackliu/jack_leet_code/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/officialjackliu/jack_leet_code/tree/master/0274-h-index) |
+| [0289-game-of-life](https://github.com/officialjackliu/jack_leet_code/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/officialjackliu/jack_leet_code/tree/master/0380-insert-delete-getrandom-o1) |
 | [1331-rank-transform-of-an-array](https://github.com/officialjackliu/jack_leet_code/tree/master/1331-rank-transform-of-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/officialjackliu/jack_leet_code/tree/master/1732-find-the-highest-altitude) |
@@ -174,6 +175,7 @@ jack's leetcode log
 | ------- |
 | [0054-spiral-matrix](https://github.com/officialjackliu/jack_leet_code/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/officialjackliu/jack_leet_code/tree/master/0068-text-justification) |
+| [0289-game-of-life](https://github.com/officialjackliu/jack_leet_code/tree/master/0289-game-of-life) |
 | [3612-process-string-with-special-operations-i](https://github.com/officialjackliu/jack_leet_code/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/officialjackliu/jack_leet_code/tree/master/3614-process-string-with-special-operations-ii) |
 ## Dynamic Programming
@@ -243,6 +245,7 @@ jack's leetcode log
 | [0048-rotate-image](https://github.com/officialjackliu/jack_leet_code/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/officialjackliu/jack_leet_code/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/officialjackliu/jack_leet_code/tree/master/0073-set-matrix-zeroes) |
+| [0289-game-of-life](https://github.com/officialjackliu/jack_leet_code/tree/master/0289-game-of-life) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/officialjackliu/jack_leet_code/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/officialjackliu/jack_leet_code/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Monotonic Stack
