@@ -21,6 +21,7 @@ jack's leetcode log
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/officialjackliu/jack_leet_code/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/officialjackliu/jack_leet_code/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/officialjackliu/jack_leet_code/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/officialjackliu/jack_leet_code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
 |  |
 | ------- |
@@ -74,6 +75,7 @@ jack's leetcode log
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/officialjackliu/jack_leet_code/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/officialjackliu/jack_leet_code/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3364-minimum-positive-sum-subarray](https://github.com/officialjackliu/jack_leet_code/tree/master/3364-minimum-positive-sum-subarray) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/officialjackliu/jack_leet_code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,6 +92,7 @@ jack's leetcode log
 | [0202-happy-number](https://github.com/officialjackliu/jack_leet_code/tree/master/0202-happy-number) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/officialjackliu/jack_leet_code/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/officialjackliu/jack_leet_code/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/officialjackliu/jack_leet_code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -103,6 +106,7 @@ jack's leetcode log
 | [1331-rank-transform-of-an-array](https://github.com/officialjackliu/jack_leet_code/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/officialjackliu/jack_leet_code/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/officialjackliu/jack_leet_code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/officialjackliu/jack_leet_code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -184,6 +188,7 @@ jack's leetcode log
 | [0289-game-of-life](https://github.com/officialjackliu/jack_leet_code/tree/master/0289-game-of-life) |
 | [3612-process-string-with-special-operations-i](https://github.com/officialjackliu/jack_leet_code/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/officialjackliu/jack_leet_code/tree/master/3614-process-string-with-special-operations-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/officialjackliu/jack_leet_code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -273,4 +278,8 @@ jack's leetcode log
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/officialjackliu/jack_leet_code/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/officialjackliu/jack_leet_code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
