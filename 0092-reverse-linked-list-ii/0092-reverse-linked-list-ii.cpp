@@ -14,12 +14,12 @@ public:
         if (count == 0) {
             return prev;
         }
-        if (curr != nullptr) {
-            cout << "curr value is " << curr->val << endl;
-        }
-        if (prev != nullptr) {
-            cout << "  previous value is " << prev->val << endl;
-        }
+        // if (curr != nullptr) {
+        //     cout << "curr value is " << curr->val << endl;
+        // }
+        // if (prev != nullptr) {
+        //     cout << "  previous value is " << prev->val << endl;
+        // }
         ListNode* next_node = curr->next;
         curr->next = prev;
         count--;
