@@ -113,6 +113,7 @@ jack's leetcode log
 | [0002-add-two-numbers](https://github.com/officialjackliu/jack_leet_code/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/officialjackliu/jack_leet_code/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/officialjackliu/jack_leet_code/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/officialjackliu/jack_leet_code/tree/master/0138-copy-list-with-random-pointer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/officialjackliu/jack_leet_code/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/officialjackliu/jack_leet_code/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
@@ -136,6 +137,7 @@ jack's leetcode log
 | [0049-group-anagrams](https://github.com/officialjackliu/jack_leet_code/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/officialjackliu/jack_leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/officialjackliu/jack_leet_code/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/officialjackliu/jack_leet_code/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/officialjackliu/jack_leet_code/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/officialjackliu/jack_leet_code/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/officialjackliu/jack_leet_code/tree/master/0205-isomorphic-strings) |
