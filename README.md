@@ -17,6 +17,7 @@ jack's leetcode log
 | [0224-basic-calculator](https://github.com/officialjackliu/jack_leet_code/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/officialjackliu/jack_leet_code/tree/master/0227-basic-calculator-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/officialjackliu/jack_leet_code/tree/master/0380-insert-delete-getrandom-o1) |
+| [0628-maximum-product-of-three-numbers](https://github.com/officialjackliu/jack_leet_code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/officialjackliu/jack_leet_code/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/officialjackliu/jack_leet_code/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/officialjackliu/jack_leet_code/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -66,6 +67,7 @@ jack's leetcode log
 | [0274-h-index](https://github.com/officialjackliu/jack_leet_code/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/officialjackliu/jack_leet_code/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/officialjackliu/jack_leet_code/tree/master/0380-insert-delete-getrandom-o1) |
+| [0628-maximum-product-of-three-numbers](https://github.com/officialjackliu/jack_leet_code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/officialjackliu/jack_leet_code/tree/master/1331-rank-transform-of-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/officialjackliu/jack_leet_code/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/officialjackliu/jack_leet_code/tree/master/1833-maximum-ice-cream-bars) |
@@ -104,6 +106,7 @@ jack's leetcode log
 | [0169-majority-element](https://github.com/officialjackliu/jack_leet_code/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/officialjackliu/jack_leet_code/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/officialjackliu/jack_leet_code/tree/master/0274-h-index) |
+| [0628-maximum-product-of-three-numbers](https://github.com/officialjackliu/jack_leet_code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/officialjackliu/jack_leet_code/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/officialjackliu/jack_leet_code/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/officialjackliu/jack_leet_code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
