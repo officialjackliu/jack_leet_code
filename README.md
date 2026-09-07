@@ -76,6 +76,7 @@ jack's leetcode log
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/officialjackliu/jack_leet_code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/officialjackliu/jack_leet_code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/officialjackliu/jack_leet_code/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/officialjackliu/jack_leet_code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/officialjackliu/jack_leet_code/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/officialjackliu/jack_leet_code/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3364-minimum-positive-sum-subarray](https://github.com/officialjackliu/jack_leet_code/tree/master/3364-minimum-positive-sum-subarray) |
@@ -114,6 +115,7 @@ jack's leetcode log
 | [1331-rank-transform-of-an-array](https://github.com/officialjackliu/jack_leet_code/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/officialjackliu/jack_leet_code/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/officialjackliu/jack_leet_code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/officialjackliu/jack_leet_code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/officialjackliu/jack_leet_code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/officialjackliu/jack_leet_code/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/officialjackliu/jack_leet_code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -161,6 +163,7 @@ jack's leetcode log
 | [1189-maximum-number-of-balloons](https://github.com/officialjackliu/jack_leet_code/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/officialjackliu/jack_leet_code/tree/master/1331-rank-transform-of-an-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/officialjackliu/jack_leet_code/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/officialjackliu/jack_leet_code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/officialjackliu/jack_leet_code/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
