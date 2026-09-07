@@ -20,6 +20,7 @@ jack's leetcode log
 | [0628-maximum-product-of-three-numbers](https://github.com/officialjackliu/jack_leet_code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/officialjackliu/jack_leet_code/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/officialjackliu/jack_leet_code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/officialjackliu/jack_leet_code/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/officialjackliu/jack_leet_code/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/officialjackliu/jack_leet_code/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/officialjackliu/jack_leet_code/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -297,6 +298,7 @@ jack's leetcode log
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/officialjackliu/jack_leet_code/tree/master/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/officialjackliu/jack_leet_code/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
