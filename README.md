@@ -14,6 +14,7 @@ jack's leetcode log
 | [0150-evaluate-reverse-polish-notation](https://github.com/officialjackliu/jack_leet_code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/officialjackliu/jack_leet_code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/officialjackliu/jack_leet_code/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/officialjackliu/jack_leet_code/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/officialjackliu/jack_leet_code/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/officialjackliu/jack_leet_code/tree/master/0227-basic-calculator-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/officialjackliu/jack_leet_code/tree/master/0380-insert-delete-getrandom-o1) |
@@ -62,6 +63,7 @@ jack's leetcode log
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/officialjackliu/jack_leet_code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/officialjackliu/jack_leet_code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/officialjackliu/jack_leet_code/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/officialjackliu/jack_leet_code/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/officialjackliu/jack_leet_code/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/officialjackliu/jack_leet_code/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/officialjackliu/jack_leet_code/tree/master/0228-summary-ranges) |
@@ -302,14 +304,28 @@ jack's leetcode log
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/officialjackliu/jack_leet_code/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/officialjackliu/jack_leet_code/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/officialjackliu/jack_leet_code/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/officialjackliu/jack_leet_code/tree/master/0204-count-primes) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/officialjackliu/jack_leet_code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/officialjackliu/jack_leet_code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/officialjackliu/jack_leet_code/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/officialjackliu/jack_leet_code/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/officialjackliu/jack_leet_code/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
