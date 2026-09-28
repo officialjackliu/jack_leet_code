@@ -140,6 +140,7 @@ jack's leetcode log
 | [0150-evaluate-reverse-polish-notation](https://github.com/officialjackliu/jack_leet_code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/officialjackliu/jack_leet_code/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/officialjackliu/jack_leet_code/tree/master/0227-basic-calculator-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/officialjackliu/jack_leet_code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/officialjackliu/jack_leet_code/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Hash Table
 |  |
@@ -195,6 +196,7 @@ jack's leetcode log
 | [0290-word-pattern](https://github.com/officialjackliu/jack_leet_code/tree/master/0290-word-pattern) |
 | [1189-maximum-number-of-balloons](https://github.com/officialjackliu/jack_leet_code/tree/master/1189-maximum-number-of-balloons) |
 | [1592-rearrange-spaces-between-words](https://github.com/officialjackliu/jack_leet_code/tree/master/1592-rearrange-spaces-between-words) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/officialjackliu/jack_leet_code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/officialjackliu/jack_leet_code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/officialjackliu/jack_leet_code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/officialjackliu/jack_leet_code/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -306,4 +308,8 @@ jack's leetcode log
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/officialjackliu/jack_leet_code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/officialjackliu/jack_leet_code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
