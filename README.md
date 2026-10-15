@@ -17,6 +17,7 @@ jack's leetcode log
 | [0204-count-primes](https://github.com/officialjackliu/jack_leet_code/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/officialjackliu/jack_leet_code/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/officialjackliu/jack_leet_code/tree/master/0227-basic-calculator-ii) |
+| [0371-sum-of-two-integers](https://github.com/officialjackliu/jack_leet_code/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/officialjackliu/jack_leet_code/tree/master/0380-insert-delete-getrandom-o1) |
 | [0628-maximum-product-of-three-numbers](https://github.com/officialjackliu/jack_leet_code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/officialjackliu/jack_leet_code/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -294,6 +295,7 @@ jack's leetcode log
 ## Bit Manipulation
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/officialjackliu/jack_leet_code/tree/master/0371-sum-of-two-integers) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/officialjackliu/jack_leet_code/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 ## Recursion
 |  |
