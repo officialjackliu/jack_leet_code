@@ -32,10 +32,12 @@ jack's leetcode log
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/officialjackliu/jack_leet_code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0112-path-sum](https://github.com/officialjackliu/jack_leet_code/tree/master/0112-path-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/officialjackliu/jack_leet_code/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/officialjackliu/jack_leet_code/tree/master/0112-path-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/officialjackliu/jack_leet_code/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Array
 |  |
@@ -350,4 +352,9 @@ jack's leetcode log
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/officialjackliu/jack_leet_code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0112-path-sum](https://github.com/officialjackliu/jack_leet_code/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/officialjackliu/jack_leet_code/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
