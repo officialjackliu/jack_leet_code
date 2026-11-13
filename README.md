@@ -76,6 +76,7 @@ jack's leetcode log
 | [0238-product-of-array-except-self](https://github.com/officialjackliu/jack_leet_code/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/officialjackliu/jack_leet_code/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/officialjackliu/jack_leet_code/tree/master/0289-game-of-life) |
+| [0322-coin-change](https://github.com/officialjackliu/jack_leet_code/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/officialjackliu/jack_leet_code/tree/master/0380-insert-delete-getrandom-o1) |
 | [0628-maximum-product-of-three-numbers](https://github.com/officialjackliu/jack_leet_code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/officialjackliu/jack_leet_code/tree/master/1331-rank-transform-of-an-array) |
@@ -236,6 +237,7 @@ jack's leetcode log
 | [0055-jump-game](https://github.com/officialjackliu/jack_leet_code/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/officialjackliu/jack_leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/officialjackliu/jack_leet_code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0322-coin-change](https://github.com/officialjackliu/jack_leet_code/tree/master/0322-coin-change) |
 ## Greedy
 |  |
 | ------- |
@@ -361,4 +363,13 @@ jack's leetcode log
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/officialjackliu/jack_leet_code/tree/master/0112-path-sum) |
+| [0322-coin-change](https://github.com/officialjackliu/jack_leet_code/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/officialjackliu/jack_leet_code/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/officialjackliu/jack_leet_code/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
